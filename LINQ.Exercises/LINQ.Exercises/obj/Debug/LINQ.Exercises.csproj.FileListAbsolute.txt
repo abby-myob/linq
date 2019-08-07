@@ -1,0 +1,16 @@
+/Users/abby.thompson/Development/linq-exercises/LINQ.Exercises/LINQ.Exercises/bin/Debug/LINQ.Exercises.dll
+/Users/abby.thompson/Development/linq-exercises/LINQ.Exercises/LINQ.Exercises/bin/Debug/LINQ.Exercises.pdb
+/Users/abby.thompson/Development/linq-exercises/LINQ.Exercises/LINQ.Exercises/bin/Debug/xunit.dll
+/Users/abby.thompson/Development/linq-exercises/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.csprojAssemblyReference.cache
+/Users/abby.thompson/Development/linq-exercises/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.csproj.CoreCompileInputs.cache
+/Users/abby.thompson/Development/linq-exercises/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.csproj.CopyComplete
+/Users/abby.thompson/Development/linq-exercises/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.dll
+/Users/abby.thompson/Development/linq-exercises/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.pdb
+/Users/abby.thompson/Development/linq/LINQ.Exercises/LINQ.Exercises/bin/Debug/LINQ.Exercises.dll
+/Users/abby.thompson/Development/linq/LINQ.Exercises/LINQ.Exercises/bin/Debug/LINQ.Exercises.pdb
+/Users/abby.thompson/Development/linq/LINQ.Exercises/LINQ.Exercises/bin/Debug/xunit.dll
+/Users/abby.thompson/Development/linq/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.csprojAssemblyReference.cache
+/Users/abby.thompson/Development/linq/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.csproj.CoreCompileInputs.cache
+/Users/abby.thompson/Development/linq/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.csproj.CopyComplete
+/Users/abby.thompson/Development/linq/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.dll
+/Users/abby.thompson/Development/linq/LINQ.Exercises/LINQ.Exercises/obj/Debug/LINQ.Exercises.pdb

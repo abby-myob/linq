@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="LINQ.Exercises" t="IncludeRecursive">
+        <e p="Aggregate.cs" t="Include" />
+        <e p="Answers" t="Include">
+          <e p="AggregateAnswers.txt" t="Include" />
+          <e p="CombinedOperationsAnswers.txt" t="Include" />
+          <e p="OrderBy-SelectedAnswers.txt" t="Include" />
+          <e p="PartitionAnswers.txt" t="Include" />
+          <e p="SetAnswers.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CombinedOperations.cs" t="Include" />
+        <e p="Element.cs" t="Include" />
+        <e p="LINQ.Exercises.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Orderby.cs" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="Partition.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Restriction.cs" t="Include" />
+        <e p="SetOperations.cs" t="Include" />
+        <e p="TestData.cs" t="Include" />
+      </e>
+      <e p="LINQ.Exercises.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_LINQ.Exercises.158105219.00" t="ExcludeRecursive" />
+  </component>
+</project>
