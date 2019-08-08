@@ -155,8 +155,9 @@ namespace LINQ.Exercises
             // if this day is bigger than 15, then substract 10 from it
             // else add 5 to it
             // and add resulting number to your aggregate
-            int result = TestData.People.Aggregate(0, (sum, person) => 1);
-            result = 296;
+            
+            int result = TestData.People.Aggregate(256, (sum, person) => sum + (person.Born.Day > 15 ? (person.Born.Day - 10) : (person.Born.Day +5)));
+
             Assert.Equal(296, result);
         }
     }

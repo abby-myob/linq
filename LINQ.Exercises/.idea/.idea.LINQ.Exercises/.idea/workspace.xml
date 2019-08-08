@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f956585-4740-4597-a76c-b46e78f845d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LINQ.Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LINQ.Exercises/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LINQ.Exercises/Element.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/Element.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ.Exercises/LINQ.Exercises.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/LINQ.Exercises.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ.Exercises/Orderby.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/Orderby.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ.Exercises/Partition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/Partition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ.Exercises/Restriction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/Restriction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,44 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="158" column="21" selection-start-line="158" selection-start-column="21" selection-end-line="158" selection-end-column="21" />
-              <folding>
-                <marker date="1565216276222" expanded="true" signature="6:74" ph="..." />
-                <marker date="1565216276222" expanded="true" signature="100:4525" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="107:457" ph="/// Your task is to apply LINQ `Count/Sum/Min/Max/Average/Aggregate` methods, so all tests will be passed. ... " />
-                <marker date="1565216276222" expanded="true" signature="502:4523" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="563:749" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="813:933" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="1023:1198" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="1252:1360" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="1433:1564" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="1622:1757" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="1815:1923" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="1997:2136" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="2197:2362" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="2420:2527" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="2600:2739" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="2798:2963" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="3025:3142" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="3208:3362" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="3429:3702" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="3452:3563" ph="/* Aggregate is a little bit more complicated ... */" />
-                <marker date="1565216276222" expanded="true" signature="3773:3992" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="4055:4517" ph="{...}" />
-                <marker date="1565216276222" expanded="true" signature="4078:4367" ph="/* secret formula is as follows ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LINQ.Exercises/TestData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-288">
+            <state relative-caret-position="-1306">
               <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <marker date="1565151405228" expanded="false" signature="6:47" ph="..." />
@@ -88,60 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-              <folding>
-                <marker date="1565151912180" expanded="true" signature="6:65" ph="..." />
-                <marker date="1565151912180" expanded="true" signature="91:1694" ph="{...}" />
-                <marker date="1565151912180" expanded="true" signature="98:447" ph="/// These tests require the combination of various linq methods to arrive at a solution. ... " />
-                <marker date="1565151912180" expanded="true" signature="495:1692" ph="{...}" />
-                <marker date="1565151912180" expanded="true" signature="510:758" ph="/* we have a list of people ... */" />
-                <marker date="1565151912180" expanded="true" signature="873:1121" ph="{...}" />
-                <marker date="1565151912180" expanded="true" signature="1131:1378" ph="/* Bonus Question ... */" />
-                <marker date="1565151912180" expanded="true" signature="1498:1685" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Element.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1565152090473" expanded="true" signature="6:31" ph="..." />
-                <marker date="1565152090473" expanded="true" signature="57:3537" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="64:418" ph="/// Your task is to apply LINQ `First/FirstOrDefault/Last/LastOrDefault` methods, so all tests will be passed. ... " />
-                <marker date="1565152090473" expanded="true" signature="461:3535" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="512:697" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="755:865" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="925:1033" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="1084:1193" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="1243:1352" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="1436:1545" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="1633:1741" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="1793:1913" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="1981:2098" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="2159:2278" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="2354:2476" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="2550:2682" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="2749:2886" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="2964:3100" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="3174:3311" ph="{...}" />
-                <marker date="1565152090473" expanded="true" signature="3407:3529" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Orderby.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="240">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="84" />
               <folding>
                 <marker date="1565152090460" expanded="true" signature="6:79" ph="..." />
                 <marker date="1565152090460" expanded="true" signature="105:8340" ph="{...}" />
@@ -178,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Partition.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+            <state relative-caret-position="630">
+              <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
               <folding>
                 <marker date="1565152090480" expanded="true" signature="6:65" ph="..." />
                 <marker date="1565152090480" expanded="true" signature="91:3171" ph="{...}" />
@@ -204,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Restriction.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2250">
-              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+            <state relative-caret-position="1950">
+              <caret line="150" selection-start-line="150" selection-end-line="150" />
               <folding>
                 <marker date="1565152090477" expanded="true" signature="6:65" ph="..." />
                 <marker date="1565152090477" expanded="true" signature="91:5379" ph="{...}" />
@@ -239,7 +152,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
+            <state relative-caret-position="585">
               <caret line="44" column="73" selection-start-line="44" selection-start-column="73" selection-end-line="44" selection-end-column="73" />
               <folding>
                 <marker date="1565152090470" expanded="true" signature="6:65" ph="..." />
@@ -271,32 +184,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/Orderby.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LINQ.Exercises/Element.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LINQ.Exercises/Partition.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/Orderby.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/packages.config" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/TestData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LINQ.Exercises/Restriction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/TestData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/Orderby.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/Partition.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/Restriction.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs" />
-        <option value="$PROJECT_DIR$/LINQ.Exercises/Element.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs" />
+        <option value="$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs" />
+        <option value="$PROJECT_DIR$/LINQ.Exercises/Element.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="840" />
+    <option name="width" value="1120" />
     <option name="height" value="957" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -305,6 +218,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -321,15 +236,13 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="LINQ.Exercises" type="24d0babc:SolutionExplorerModelNode" />
               <item name="LINQ.Exercises" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Answers" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,11 +277,13 @@
       <updated>1565151466547</updated>
       <workItem from="1565151467781" duration="32000" />
       <workItem from="1565151694024" duration="3730000" />
+      <workItem from="1565216716652" duration="1313000" />
+      <workItem from="1565222140721" duration="2052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3762000" />
+    <option name="totallyTimeSpent" value="7127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,12 +295,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="840" height="957" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="957" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110275686" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16666667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.21377672" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -398,9 +313,10 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.20293398" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.30522564" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.21377672" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -408,6 +324,33 @@
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.13301663" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.36579573" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.21377672" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -425,63 +368,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          <folding>
-            <marker date="1565151912180" expanded="true" signature="6:65" ph="..." />
-            <marker date="1565151912180" expanded="true" signature="91:1694" ph="{...}" />
-            <marker date="1565151912180" expanded="true" signature="98:447" ph="/// These tests require the combination of various linq methods to arrive at a solution. ... " />
-            <marker date="1565151912180" expanded="true" signature="495:1692" ph="{...}" />
-            <marker date="1565151912180" expanded="true" signature="510:758" ph="/* we have a list of people ... */" />
-            <marker date="1565151912180" expanded="true" signature="873:1121" ph="{...}" />
-            <marker date="1565151912180" expanded="true" signature="1131:1378" ph="/* Bonus Question ... */" />
-            <marker date="1565151912180" expanded="true" signature="1498:1685" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Orderby.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <marker date="1565152090460" expanded="true" signature="6:79" ph="..." />
-            <marker date="1565152090460" expanded="true" signature="105:8340" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="112:885" ph="/// Look here for a primer: ... " />
-            <marker date="1565152090460" expanded="true" signature="929:8338" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="1014:1256" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="1382:1593" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="1669:1881" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="2022:2235" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="2380:2561" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="2664:3187" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="2822:3174" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="3197:3628" ph="/* hint: https://msdn.microsoft.com/en-us/library/bb549422(v=vs.110).aspx ... */" />
-            <marker date="1565152090460" expanded="true" signature="3743:4046" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="3941:4033" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="4056:4903" ph="/* The comparison can be more complex. ... */" />
-            <marker date="1565152090460" expanded="true" signature="4996:5208" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="5308:5529" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="5625:6136" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="5771:6123" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="6232:6743" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="6378:6730" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="6840:7168" ph="{...}" />
-            <marker date="1565152090460" expanded="true" signature="7178:7268" ph="/* order by increasing length ... */" />
-            <marker date="1565152090460" expanded="true" signature="7373:7816" ph="{...}" />
-            <marker date="1565152090460" expanded="false" signature="7396:7534" ph="hint" />
-            <marker date="1565152090460" expanded="true" signature="7826:7977" ph="/* use Reverse to create a list of all digits in the array whose ... */" />
-            <marker date="1565152090460" expanded="true" signature="8051:8332" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/packages.config">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Partition.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+        <state relative-caret-position="630">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
           <folding>
             <marker date="1565152090480" expanded="true" signature="6:65" ph="..." />
             <marker date="1565152090480" expanded="true" signature="91:3171" ph="{...}" />
@@ -504,8 +397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Restriction.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2250">
-          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+        <state relative-caret-position="1950">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
           <folding>
             <marker date="1565152090477" expanded="true" signature="6:65" ph="..." />
             <marker date="1565152090477" expanded="true" signature="91:5379" ph="{...}" />
@@ -537,7 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="585">
           <caret line="44" column="73" selection-start-line="44" selection-start-column="73" selection-end-line="44" selection-end-column="73" />
           <folding>
             <marker date="1565152090470" expanded="true" signature="6:65" ph="..." />
@@ -555,40 +448,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/packages.config">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Answers/AggregateAnswers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="45" column="143" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="160" column="11" lean-forward="true" selection-start-line="160" selection-start-column="11" selection-end-line="160" selection-end-column="11" />
+          <folding>
+            <marker date="1565222938831" expanded="false" signature="6:74" ph="..." />
+            <marker date="1565222938831" expanded="true" signature="100:4590" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="107:457" ph="/// Your task is to apply LINQ `Count/Sum/Min/Max/Average/Aggregate` methods, so all tests will be passed. ... " />
+            <marker date="1565222938831" expanded="true" signature="502:4588" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="563:749" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="813:933" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="1023:1198" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="1252:1360" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="1433:1564" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="1622:1757" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="1815:1923" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="1997:2136" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="2197:2362" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="2420:2527" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="2600:2739" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="2798:2963" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="3025:3142" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="3208:3362" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="3429:3702" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="3452:3563" ph="/* Aggregate is a little bit more complicated ... */" />
+            <marker date="1565222938831" expanded="true" signature="3773:3992" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="4055:4582" ph="{...}" />
+            <marker date="1565222938831" expanded="true" signature="4078:4367" ph="/* secret formula is as follows ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Answers/CombinedOperationsAnswers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1565224167921" expanded="true" signature="6:65" ph="..." />
+            <marker date="1565224167921" expanded="true" signature="91:1759" ph="{...}" />
+            <marker date="1565224167921" expanded="true" signature="98:447" ph="/// These tests require the combination of various linq methods to arrive at a solution. ... " />
+            <marker date="1565224167921" expanded="true" signature="502:1757" ph="{...}" />
+            <marker date="1565224167921" expanded="true" signature="517:765" ph="/* we have a list of people ... */" />
+            <marker date="1565224167921" expanded="true" signature="880:1075" ph="{...}" />
+            <marker date="1565224167921" expanded="true" signature="1085:1332" ph="/* Bonus Question ... */" />
+            <marker date="1565224167921" expanded="true" signature="1452:1750" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Element.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="117">
+          <caret line="137" column="78" selection-start-line="137" selection-start-column="78" selection-end-line="137" selection-end-column="78" />
           <folding>
-            <marker date="1565152090473" expanded="true" signature="6:31" ph="..." />
-            <marker date="1565152090473" expanded="true" signature="57:3537" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="64:418" ph="/// Your task is to apply LINQ `First/FirstOrDefault/Last/LastOrDefault` methods, so all tests will be passed. ... " />
-            <marker date="1565152090473" expanded="true" signature="461:3535" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="512:697" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="755:865" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="925:1033" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="1084:1193" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="1243:1352" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="1436:1545" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="1633:1741" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="1793:1913" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="1981:2098" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="2159:2278" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="2354:2476" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="2550:2682" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="2749:2886" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="2964:3100" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="3174:3311" ph="{...}" />
-            <marker date="1565152090473" expanded="true" signature="3407:3529" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="6:31" ph="..." />
+            <marker date="1565224181929" expanded="true" signature="57:3923" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="64:418" ph="/// Your task is to apply LINQ `First/FirstOrDefault/Last/LastOrDefault` methods, so all tests will be passed. ... " />
+            <marker date="1565224181929" expanded="true" signature="461:3921" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="512:697" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="755:875" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="935:1053" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="1104:1228" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="1278:1402" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="1486:1615" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="1703:1834" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="1886:2036" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="2104:2249" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="2312:2461" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="2537:2691" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="2765:2906" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="2973:3143" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="3221:3396" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="3470:3645" ph="{...}" />
+            <marker date="1565224181929" expanded="true" signature="3741:3915" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LINQ.Exercises/TestData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
+        <state relative-caret-position="-1306">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <marker date="1565151405228" expanded="false" signature="6:47" ph="..." />
@@ -619,34 +573,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs">
+    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Orderby.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="158" column="21" selection-start-line="158" selection-start-column="21" selection-end-line="158" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="84" />
           <folding>
-            <marker date="1565216276222" expanded="true" signature="6:74" ph="..." />
-            <marker date="1565216276222" expanded="true" signature="100:4525" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="107:457" ph="/// Your task is to apply LINQ `Count/Sum/Min/Max/Average/Aggregate` methods, so all tests will be passed. ... " />
-            <marker date="1565216276222" expanded="true" signature="502:4523" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="563:749" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="813:933" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="1023:1198" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="1252:1360" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="1433:1564" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="1622:1757" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="1815:1923" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="1997:2136" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="2197:2362" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="2420:2527" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="2600:2739" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="2798:2963" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="3025:3142" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="3208:3362" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="3429:3702" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="3452:3563" ph="/* Aggregate is a little bit more complicated ... */" />
-            <marker date="1565216276222" expanded="true" signature="3773:3992" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="4055:4517" ph="{...}" />
-            <marker date="1565216276222" expanded="true" signature="4078:4367" ph="/* secret formula is as follows ... */" />
+            <marker date="1565152090460" expanded="true" signature="6:79" ph="..." />
+            <marker date="1565152090460" expanded="true" signature="105:8340" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="112:885" ph="/// Look here for a primer: ... " />
+            <marker date="1565152090460" expanded="true" signature="929:8338" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="1014:1256" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="1382:1593" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="1669:1881" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="2022:2235" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="2380:2561" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="2664:3187" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="2822:3174" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="3197:3628" ph="/* hint: https://msdn.microsoft.com/en-us/library/bb549422(v=vs.110).aspx ... */" />
+            <marker date="1565152090460" expanded="true" signature="3743:4046" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="3941:4033" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="4056:4903" ph="/* The comparison can be more complex. ... */" />
+            <marker date="1565152090460" expanded="true" signature="4996:5208" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="5308:5529" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="5625:6136" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="5771:6123" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="6232:6743" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="6378:6730" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="6840:7168" ph="{...}" />
+            <marker date="1565152090460" expanded="true" signature="7178:7268" ph="/* order by increasing length ... */" />
+            <marker date="1565152090460" expanded="true" signature="7373:7816" ph="{...}" />
+            <marker date="1565152090460" expanded="false" signature="7396:7534" ph="hint" />
+            <marker date="1565152090460" expanded="true" signature="7826:7977" ph="/* use Reverse to create a list of all digits in the array whose ... */" />
+            <marker date="1565152090460" expanded="true" signature="8051:8332" ph="{...}" />
           </folding>
         </state>
       </provider>

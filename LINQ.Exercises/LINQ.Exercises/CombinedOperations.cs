@@ -12,7 +12,7 @@ namespace LINQ.Exercises
     /// </summary>
 
     //[TestClass]
-    class CombinedOperations
+    public class CombinedOperations
     {
         // we have a list of people
         // we have their first names
@@ -24,7 +24,8 @@ namespace LINQ.Exercises
         [Fact]
         public void GetCharactersCommonToEveryonesFirstNamesUsingSetElements_ReturnCharEnumerable()
         {
-            List<char> commonCharacters = new List<char>(); // please edit/complete so that the test passes
+
+            var commonCharacters = new List<char>(); 
 
             Assert.True(commonCharacters.OrderBy(x => x).SequenceEqual(new char[] { 'a', 'i', 'J' }.OrderBy(x => x)));
         }
@@ -38,6 +39,8 @@ namespace LINQ.Exercises
         [Fact]
         public void GetCharactersCommonToEveryonesFirstNamesNotUsingSetOperations_ReturnCharEnumerable()
         {
+            //var result = TestData.People.Select(name => name.FirstName.ToCharArray()).ToList();
+            
             IEnumerable<char> result = new List<char>();
 
             Assert.True(result.OrderBy(x => x).SequenceEqual(new char[] { 'a', 'i', 'J' }.OrderBy(x => x)));
