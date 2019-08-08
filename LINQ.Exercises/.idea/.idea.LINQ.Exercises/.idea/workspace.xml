@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f956585-4740-4597-a76c-b46e78f845d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LINQ.Exercises/Partition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/Partition.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LINQ.Exercises/Restriction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ.Exercises/Restriction.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Orderby.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="84" />
+            <state relative-caret-position="255">
+              <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
               <folding>
                 <marker date="1565152090460" expanded="true" signature="6:79" ph="..." />
                 <marker date="1565152090460" expanded="true" signature="105:8340" ph="{...}" />
@@ -85,62 +86,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Partition.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+            <state relative-caret-position="391">
+              <caret line="87" column="55" lean-forward="true" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
               <folding>
-                <marker date="1565152090480" expanded="true" signature="6:65" ph="..." />
-                <marker date="1565152090480" expanded="true" signature="91:3171" ph="{...}" />
-                <marker date="1565152090480" expanded="true" signature="98:674" ph="/// Look here for a primer: ... " />
-                <marker date="1565152090480" expanded="true" signature="719:3169" ph="{...}" />
-                <marker date="1565152090480" expanded="true" signature="798:1034" ph="{...}" />
-                <marker date="1565152090480" expanded="true" signature="1156:1305" ph="{...}" />
-                <marker date="1565152090480" expanded="true" signature="1450:1611" ph="{...}" />
-                <marker date="1565152090480" expanded="true" signature="1621:1737" ph="/* return elements starting from the beginning of the array ... */" />
-                <marker date="1565152090480" expanded="true" signature="1836:1991" ph="{...}" />
-                <marker date="1565152090480" expanded="true" signature="2001:2137" ph="/* return elements starting from the beginning of the array ... */" />
-                <marker date="1565152090480" expanded="true" signature="2259:2408" ph="{...}" />
-                <marker date="1565152090480" expanded="true" signature="2418:2508" ph="/* get the elements of the array ... */" />
-                <marker date="1565152090480" expanded="true" signature="2619:2783" ph="{...}" />
-                <marker date="1565152090480" expanded="true" signature="2793:2892" ph="/* get the elements of the array ... */" />
-                <marker date="1565152090480" expanded="true" signature="2996:3163" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Restriction.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="204" column="77" lean-forward="true" selection-start-line="204" selection-start-column="77" selection-end-line="204" selection-end-column="77" />
-              <folding>
-                <marker date="1565226164996" expanded="true" signature="6:79" ph="..." />
-                <marker date="1565226164996" expanded="true" signature="105:6783" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="112:431" ph="/// Your task is to apply LINQ `Where` method, so all tests will be passed. ... " />
-                <marker date="1565226164996" expanded="true" signature="478:6781" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="561:777" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="872:1119" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="1199:1390" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="1444:1651" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="1713:1923" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="1998:2211" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="2297:2558" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="2659:2848" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="2936:3187" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="3252:3471" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="3547:3789" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="3851:4078" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="4151:4358" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="4425:4629" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="4727:4981" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="5053:5309" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="5393:5650" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="5725:6004" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="6084:6348" ph="{...}" />
-                <marker date="1565226164996" expanded="true" signature="6467:6775" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="6:96" ph="..." />
+                <marker date="1565229009654" expanded="true" signature="122:3445" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="129:705" ph="/// Look here for a primer: ... " />
+                <marker date="1565229009654" expanded="true" signature="750:3443" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="829:1065" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="1187:1344" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="1489:1658" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="1668:1784" ph="/* return elements starting from the beginning of the array ... */" />
+                <marker date="1565229009654" expanded="true" signature="1883:2060" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="2070:2206" ph="/* return elements starting from the beginning of the array ... */" />
+                <marker date="1565229009654" expanded="true" signature="2328:2542" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="2552:2642" ph="/* get the elements of the array ... */" />
+                <marker date="1565229009654" expanded="true" signature="2753:2987" ph="{...}" />
+                <marker date="1565229009654" expanded="true" signature="2997:3096" ph="/* get the elements of the array ... */" />
+                <marker date="1565229009654" expanded="true" signature="3200:3437" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -149,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="165">
+              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding>
                 <marker date="1565152090470" expanded="true" signature="6:65" ph="..." />
                 <marker date="1565152090470" expanded="true" signature="91:2824" ph="{...}" />
@@ -195,18 +161,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/LINQ.Exercises/Orderby.cs" />
-        <option value="$PROJECT_DIR$/LINQ.Exercises/Partition.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/Aggregate.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/CombinedOperations.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/Element.cs" />
         <option value="$PROJECT_DIR$/LINQ.Exercises/Restriction.cs" />
+        <option value="$PROJECT_DIR$/LINQ.Exercises/Partition.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1336" />
+    <option name="width" value="840" />
     <option name="height" value="957" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -269,12 +235,12 @@
       <workItem from="1565151467781" duration="32000" />
       <workItem from="1565151694024" duration="3730000" />
       <workItem from="1565216716652" duration="1313000" />
-      <workItem from="1565222140721" duration="3850000" />
+      <workItem from="1565222140721" duration="5065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8925000" />
+    <option name="totallyTimeSpent" value="10140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,9 +252,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1336" height="957" extended-state="0" />
+    <frame x="0" y="23" width="840" height="957" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108191654" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1754386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -303,7 +269,7 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.14726841" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.15158924" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.20665084" />
@@ -361,26 +327,6 @@
             <marker date="1565224167921" expanded="true" signature="880:1075" ph="{...}" />
             <marker date="1565224167921" expanded="true" signature="1085:1332" ph="/* Bonus Question ... */" />
             <marker date="1565224167921" expanded="true" signature="1452:1750" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <marker date="1565152090470" expanded="true" signature="6:65" ph="..." />
-            <marker date="1565152090470" expanded="true" signature="91:2824" ph="{...}" />
-            <marker date="1565152090470" expanded="true" signature="98:684" ph="/// Your task is to apply LINQ `Distinct/Union/Intersect/Except/OrderBy` methods, ... " />
-            <marker date="1565152090470" expanded="true" signature="734:2822" ph="{...}" />
-            <marker date="1565152090470" expanded="true" signature="749:848" ph="/* I want to see an enumerable which contains only the unique numbers in the ... */" />
-            <marker date="1565152090470" expanded="true" signature="923:1221" ph="{...}" />
-            <marker date="1565152090470" expanded="true" signature="1231:1334" ph="/* get the unique numbers ... */" />
-            <marker date="1565152090470" expanded="true" signature="1434:1697" ph="{...}" />
-            <marker date="1565152090470" expanded="true" signature="1786:2025" ph="{...}" />
-            <marker date="1565152090470" expanded="true" signature="2149:2429" ph="{...}" />
-            <marker date="1565152090470" expanded="true" signature="2541:2816" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -479,10 +425,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Mono.framework/Versions/6.0.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2125" column="4" selection-start-line="2125" selection-start-column="4" selection-end-line="2125" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Restriction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1565226336036" expanded="true" signature="6:79" ph="..." />
+            <marker date="1565226336036" expanded="true" signature="105:6784" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="112:431" ph="/// Your task is to apply LINQ `Where` method, so all tests will be passed. ... " />
+            <marker date="1565226336036" expanded="true" signature="478:6782" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="561:777" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="872:1119" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="1199:1390" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="1444:1651" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="1713:1923" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="1998:2211" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="2298:2559" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="2660:2849" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="2937:3188" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="3253:3472" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="3548:3790" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="3852:4079" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="4152:4359" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="4426:4630" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="4728:4982" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="5054:5310" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="5394:5651" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="5726:6005" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="6085:6349" ph="{...}" />
+            <marker date="1565226336036" expanded="true" signature="6468:6776" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/SetOperations.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <marker date="1565152090470" expanded="true" signature="6:65" ph="..." />
+            <marker date="1565152090470" expanded="true" signature="91:2824" ph="{...}" />
+            <marker date="1565152090470" expanded="true" signature="98:684" ph="/// Your task is to apply LINQ `Distinct/Union/Intersect/Except/OrderBy` methods, ... " />
+            <marker date="1565152090470" expanded="true" signature="734:2822" ph="{...}" />
+            <marker date="1565152090470" expanded="true" signature="749:848" ph="/* I want to see an enumerable which contains only the unique numbers in the ... */" />
+            <marker date="1565152090470" expanded="true" signature="923:1221" ph="{...}" />
+            <marker date="1565152090470" expanded="true" signature="1231:1334" ph="/* get the unique numbers ... */" />
+            <marker date="1565152090470" expanded="true" signature="1434:1697" ph="{...}" />
+            <marker date="1565152090470" expanded="true" signature="1786:2025" ph="{...}" />
+            <marker date="1565152090470" expanded="true" signature="2149:2429" ph="{...}" />
+            <marker date="1565152090470" expanded="true" signature="2541:2816" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Orderby.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="84" />
+        <state relative-caret-position="255">
+          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
           <folding>
             <marker date="1565152090460" expanded="true" signature="6:79" ph="..." />
             <marker date="1565152090460" expanded="true" signature="105:8340" ph="{...}" />
@@ -517,64 +523,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Partition.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+        <state relative-caret-position="391">
+          <caret line="87" column="55" lean-forward="true" selection-start-line="87" selection-start-column="55" selection-end-line="87" selection-end-column="55" />
           <folding>
-            <marker date="1565152090480" expanded="true" signature="6:65" ph="..." />
-            <marker date="1565152090480" expanded="true" signature="91:3171" ph="{...}" />
-            <marker date="1565152090480" expanded="true" signature="98:674" ph="/// Look here for a primer: ... " />
-            <marker date="1565152090480" expanded="true" signature="719:3169" ph="{...}" />
-            <marker date="1565152090480" expanded="true" signature="798:1034" ph="{...}" />
-            <marker date="1565152090480" expanded="true" signature="1156:1305" ph="{...}" />
-            <marker date="1565152090480" expanded="true" signature="1450:1611" ph="{...}" />
-            <marker date="1565152090480" expanded="true" signature="1621:1737" ph="/* return elements starting from the beginning of the array ... */" />
-            <marker date="1565152090480" expanded="true" signature="1836:1991" ph="{...}" />
-            <marker date="1565152090480" expanded="true" signature="2001:2137" ph="/* return elements starting from the beginning of the array ... */" />
-            <marker date="1565152090480" expanded="true" signature="2259:2408" ph="{...}" />
-            <marker date="1565152090480" expanded="true" signature="2418:2508" ph="/* get the elements of the array ... */" />
-            <marker date="1565152090480" expanded="true" signature="2619:2783" ph="{...}" />
-            <marker date="1565152090480" expanded="true" signature="2793:2892" ph="/* get the elements of the array ... */" />
-            <marker date="1565152090480" expanded="true" signature="2996:3163" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Mono.framework/Versions/6.0.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2125" column="4" selection-start-line="2125" selection-start-column="4" selection-end-line="2125" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LINQ.Exercises/Restriction.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="204" column="77" lean-forward="true" selection-start-line="204" selection-start-column="77" selection-end-line="204" selection-end-column="77" />
-          <folding>
-            <marker date="1565226164996" expanded="true" signature="6:79" ph="..." />
-            <marker date="1565226164996" expanded="true" signature="105:6783" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="112:431" ph="/// Your task is to apply LINQ `Where` method, so all tests will be passed. ... " />
-            <marker date="1565226164996" expanded="true" signature="478:6781" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="561:777" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="872:1119" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="1199:1390" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="1444:1651" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="1713:1923" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="1998:2211" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="2297:2558" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="2659:2848" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="2936:3187" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="3252:3471" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="3547:3789" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="3851:4078" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="4151:4358" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="4425:4629" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="4727:4981" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="5053:5309" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="5393:5650" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="5725:6004" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="6084:6348" ph="{...}" />
-            <marker date="1565226164996" expanded="true" signature="6467:6775" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="6:96" ph="..." />
+            <marker date="1565229009654" expanded="true" signature="122:3445" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="129:705" ph="/// Look here for a primer: ... " />
+            <marker date="1565229009654" expanded="true" signature="750:3443" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="829:1065" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="1187:1344" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="1489:1658" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="1668:1784" ph="/* return elements starting from the beginning of the array ... */" />
+            <marker date="1565229009654" expanded="true" signature="1883:2060" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="2070:2206" ph="/* return elements starting from the beginning of the array ... */" />
+            <marker date="1565229009654" expanded="true" signature="2328:2542" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="2552:2642" ph="/* get the elements of the array ... */" />
+            <marker date="1565229009654" expanded="true" signature="2753:2987" ph="{...}" />
+            <marker date="1565229009654" expanded="true" signature="2997:3096" ph="/* get the elements of the array ... */" />
+            <marker date="1565229009654" expanded="true" signature="3200:3437" ph="{...}" />
           </folding>
         </state>
       </provider>

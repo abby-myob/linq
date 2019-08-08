@@ -74,7 +74,7 @@ namespace LINQ.Exercises
         }
 
         [Fact]
-        public void Where_n_quare_minus_2_times_n_is_greater_than_n()
+        public void Where_n_square_minus_2_times_n_is_greater_than_n()
         {
             // n * n - 2 * n
             IEnumerable<int> result = TestData.Numbers;
