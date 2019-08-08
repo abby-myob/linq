@@ -202,7 +202,7 @@ namespace LINQ.Exercises
         {
             IEnumerable<TestData.Person> result = TestData.People;
 
-            result = result.Where(person => person.Born.Year == (2000 - 19));
+            result = result.Where(person => person.Born.Year <= (2000 - 18));
 
             Assert.True(new[] { TestData.People[1], TestData.People[3] }.SequenceEqual(result));
         }
