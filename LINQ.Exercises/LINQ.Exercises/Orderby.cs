@@ -37,14 +37,15 @@ namespace LINQ.Exercises
         [Fact]
         public void OrderWordsAlphabetically_Return5Words()
         {
-            IEnumerable<string> result = TestData.OrderByWordsExtended;
+            IEnumerable<string> result = TestData.OrderByWordsExtended.OrderBy(word => word);
+            
             Assert.True(result.SequenceEqual(new string[] { "apple", "blueberry", "cherry", "tamarind", "zuchini" }));
         }
 
         [Fact]
         public void OrderWordsBySecondLetter_Return5Words()
         {
-            IEnumerable<string> result = TestData.OrderByWordsExtended;
+            IEnumerable<string> result = TestData.OrderByWordsExtended.OrderBy(word => word[1]);
 
             Assert.True(result.SequenceEqual(new string[] { "tamarind", "cherry", "blueberry", "apple", "zuchini" }));
         }
@@ -53,7 +54,7 @@ namespace LINQ.Exercises
         [Fact]
         public void OrderWordsByFirstLetterDescendingAlphabetically_Return5Words()
         {
-            IEnumerable<string> result = TestData.OrderByWordsExtended;
+            IEnumerable<string> result = TestData.OrderByWordsExtended.OrderByDescending(word => word);
 
             Assert.True(result.SequenceEqual(new string[] { "zuchini", "tamarind", "cherry", "blueberry", "apple", }));
         }
@@ -62,7 +63,7 @@ namespace LINQ.Exercises
         [Fact]
         public void OrderWordsByByLength_Return3Words()
         {
-            IEnumerable<string> result = TestData.OrderByWords;
+            IEnumerable<string> result = TestData.OrderByWords.OrderBy(w => w.Length);
 
             Assert.True(result.SequenceEqual(new string[] { "apple", "cherry", "blueberry" }));
         }
@@ -70,7 +71,7 @@ namespace LINQ.Exercises
         [Fact]
         public void OrderByPeopleByPersonsLastNameAlphabetically_returnOrderedPeople()
         {
-            IEnumerable<TestData.Person> result = TestData.People;
+            IEnumerable<TestData.Person> result = TestData.People.OrderBy(p => p.LastName);
 
             Assert.True(result.SequenceEqual(new TestData.Person[]
             {
